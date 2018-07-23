@@ -1,2 +1,2 @@
 # Leetcode
-Chiuz's leetcode solutions.
+Chiuz's leetcode solutions.🧐
